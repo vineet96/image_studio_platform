@@ -1,4 +1,5 @@
 campaign_outputs
+.DS_Store
 campaign_outputs/*
 image_studio_root_agent/.adk/*
 image_studio_root_agent/image_studio_root_agent/.adk/*
