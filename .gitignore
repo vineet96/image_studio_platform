@@ -1,0 +1,7 @@
+campaign_outputs/*
+image_studio_root_agent/.adk/*
+image_studio_root_agent/image_studio_root_agent/.adk/*
+image_studio_root_agent/image_studio_root_agent/__pycache__/*
+image_studio_root_agent/image_studio_root_agent/.env
+marketing_campaign_agent/marketing_campaign_agent/.env
+vto_agent/vto_agent/.env
