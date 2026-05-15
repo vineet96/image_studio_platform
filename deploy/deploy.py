@@ -136,7 +136,7 @@ def _stage_extra_packages() -> tuple[Path, list[str]]:
 
 
 def build_env_vars(
-    brand_pdf_bucket: str = "inspiring-folio-460016-u4-vto-uploads",
+    brand_pdf_bucket: str = "your GCS bucket",
     brand_pdf_prefix: str = "brands/",
 ) -> dict[str, str]:
     """Env vars baked into the deployed Agent Engine runtime.
